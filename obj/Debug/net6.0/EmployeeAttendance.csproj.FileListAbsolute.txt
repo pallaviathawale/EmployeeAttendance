@@ -1,0 +1,15 @@
+F:\FellowshipProgram\EmployeeAttendance\bin\Debug\net6.0\EmployeeAttendance.exe
+F:\FellowshipProgram\EmployeeAttendance\bin\Debug\net6.0\EmployeeAttendance.deps.json
+F:\FellowshipProgram\EmployeeAttendance\bin\Debug\net6.0\EmployeeAttendance.runtimeconfig.json
+F:\FellowshipProgram\EmployeeAttendance\bin\Debug\net6.0\EmployeeAttendance.dll
+F:\FellowshipProgram\EmployeeAttendance\bin\Debug\net6.0\EmployeeAttendance.pdb
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.csproj.AssemblyReference.cache
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.GeneratedMSBuildEditorConfig.editorconfig
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.AssemblyInfoInputs.cache
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.AssemblyInfo.cs
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.csproj.CoreCompileInputs.cache
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.dll
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\refint\EmployeeAttendance.dll
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.pdb
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\EmployeeAttendance.genruntimeconfig.cache
+F:\FellowshipProgram\EmployeeAttendance\obj\Debug\net6.0\ref\EmployeeAttendance.dll
